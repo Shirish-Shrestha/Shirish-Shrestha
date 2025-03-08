@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Shirish-Shrestha
 - 👀 I’m interested in Web Dev.
-- 🌱 I’m currently learning CSS.
+- 🌱 I’m currently learning JavScript.
 - 💞️ I’m looking to collaborate on..Lets see.
-- 📫 How to reach me ...
+- 📫 shirishshrestha25@gmail.com
 - 😄 Pronouns: he/his/him.
 - ⚡ Fun fact: ...
 
