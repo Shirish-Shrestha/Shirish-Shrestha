@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @Shirish-Shrestha<br>- 👀 I’m interested in Web Dev.<br>- 🌱 I’m currently learning JavScript.<br>- 💞️ I’m looking to collaborate on..Lets see.<br>- 📫 shirishshrestha25@gmail.com<br>- 😄 Pronouns: he/his/him.<br>- ⚡ Fun fact: ...<br>
+- 👋 Hi, I’m @Shirish-Shrestha<br>- 👀 I’m interested in Web Dev.<br>- 🌱 I’m currently learning JavScript.<br>- 💞️ I’m looking to collaborate on..Lets see.<br>- 📫 shirishshrestha25@gmail.com<br>-📝 Portfolio: shirishshrestha.info.np<br>- 😄 Pronouns: he/his/him.<br>
 
 <!-- Typing Text Animation -->
 <h1 align="center">
