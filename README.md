@@ -1,6 +1,11 @@
 # 💫 About Me:
 - 👋 Hi, I’m @Shirish-Shrestha<br>- 👀 I’m interested in Web Dev.<br>- 🌱 I’m currently learning JavScript.<br>- 💞️ I’m looking to collaborate on..Lets see.<br>- 📫 shirishshrestha25@gmail.com<br>- 😄 Pronouns: he/his/him.<br>- ⚡ Fun fact: ...<br>
 
+<!-- Typing Text Animation -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=F7E92F&background=000000&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Shirish+Shrestha;Frontend+Engineer+from+Nepal;I+build+cool+Web+apps" alt="Typing SVG" />
+</h1>
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shirishshrestha25) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shirish_shresthaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shirish-shrestha) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Shirish_Stha001) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shirishshrestha25@gmail.com) 
